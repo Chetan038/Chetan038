@@ -8,6 +8,7 @@ I'm Chetan Tidke, a passionate Java Full Stack Developer with a love for buildin
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="300" />
 👨‍💻 About Me:
+
 👋 Hi, I’m Chetan Tidke (@Chetan038).
 
 🔭 I’m currently working on Java-based full-stack projects at Labcorp.
