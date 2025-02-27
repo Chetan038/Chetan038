@@ -1,10 +1,6 @@
 Welcome to Chetan Tidke's Profile! 👋
 <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Chetan-Tidke" height="30" width="40" /></a> 
-<a href="https://twitter.com/your-twitter-handle" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Chetan-Tidke" height="30" width="40" /></a>
- 
 <a href="https://www.instagram.com/your-instagram-handle" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Chetan-Tidke" height="30" width="40" /></a>
- 
-<a href="https://www.facebook.com/your-facebook-profile" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Chetan-Tidke" height="30" width="40" /></a>
  
 
 Glad to see you here! 🌟 visitors
@@ -14,17 +10,15 @@ I'm Chetan Tidke, a passionate Java Full Stack Developer with a love for buildin
 👨‍💻 About Me:
 👋 Hi, I’m Chetan Tidke (@Chetan038).
 
-🔭 I’m currently working on Java-based full-stack projects.
+🔭 I’m currently working on Java-based full-stack projects at Labcorp.
 
-🌱 I’m currently learning Spring Boot, Microservices, and Cloud Technologies.
+🌱 I’m currently working on Spring Boot, Microservices, and Cloud Technologies.
 
 👯 I’m looking to collaborate on open-source projects and innovative web applications.
 
 💬 Ask me about Java, Spring, React, or anything tech-related.
 
-📫 How to reach me: chetan.tidke@example.com.
-
-😄 Pronouns: He/Him.
+📫 How to reach me: tidkechetan74@gmail.com
 
 ⚡ Fun fact: I love solving coding challenges and contributing to tech communities.
 
