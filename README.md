@@ -7,7 +7,10 @@ Glad to see you here! 🌟 visitors
 I'm Chetan Tidke, a passionate Java Full Stack Developer with a love for building scalable and efficient web applications. I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="300" />
+
 👨‍💻 About Me:
+
+
 
 👋 Hi, I’m Chetan Tidke (@Chetan038).
 
